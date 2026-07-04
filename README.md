@@ -31,10 +31,7 @@
 
 在你的工具中启动 Agent，例如 Codex、Claude Code 或 GitHub Copilot。
 
-初始化方式二选一：
-
-- 进入 `template/` 后，在工具中执行 `/init`。
-- 或者直接要求 Agent 阅读模板路径里的 `AGENTS.md`，并按其中规则初始化项目。
+直接要求 Agent 阅读模板路径里的 `AGENTS.md`，并按其中规则初始化项目。
 
 ### 3. 明确项目边界
 
